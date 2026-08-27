@@ -1,0 +1,7 @@
+{
+  "name": "Jayasanka Food Distributors",
+  "description": "Order delicious Sri Lankan cakes, traditional sweetmeats, snacks, and custom party foods from Jayasanka Food Distributors with easy WhatsApp & direct ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
